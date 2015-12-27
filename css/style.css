@@ -46,6 +46,15 @@ section {
     background-color: #e6f2e6; }
     section article:last-child {
       margin-right: 0; }
+  section p.two {
+    float: left;
+    display: block;
+    margin-right: 2.0140607218%;
+    width: 56.2796882621%;
+    margin-left: 21.860155869%;
+    background-color: #dfbfdf; }
+    section p.two:last-child {
+      margin-right: 0; }
 
 p.one {
   float: left;
